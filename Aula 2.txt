@@ -1,0 +1,35 @@
+1)
+Do you write code every day?
+Does the API return JSON?
+Do developers use Git?
+Does she fix bugs?
+Does the system process data?
+
+2)
+I did my homework yesterday.
+She did a great job in the test.
+We did the project together.
+He did not understand the question.
+Did you finish your work?
+
+3)
+Developers do not use SVN.
+The API does not return XML.
+She does not write backend code.
+The system does not store passwords.
+The server does not process requests.
+
+4)
+We did not test the system.
+The server did not restart.
+She did not fix the bug.
+They did not push the code.
+The API did not respond.
+
+5)
+Developers do not use Docker.
+The server does not run Linux.
+She does not write documentation.
+They do not deploy applications.
+The system does not store data.
+	
