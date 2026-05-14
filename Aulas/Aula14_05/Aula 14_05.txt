@@ -1,0 +1,68 @@
+----- SIMPLE PRESENT ------
+ 
+1. I run every morning.
+2. She swims very well.
+3. They sit near the window.
+4. The car stops at the signal.
+5. We plan our trips carefully.
+6. He travels every month.
+7. Maria dances at school parties.
+8. My friend writes in a notebook.
+9. My mother makes delicious cakes.
+10. My father drives to work.
+11. The teacher comes early.
+12. I take the bus to school.
+13. They move to a new house every year.
+14. The dog lies on the sofa.
+15. I get up at 6 o’clock.
+16. My mother shops on Saturdays.
+17. The class begins at 8 a.m.
+18. He forgets his keys sometimes.
+19. We use computers at school.
+20. She lives near the beach.
+
+----- PRESENT CONTINUOS -----
+
+1. I am running in the park.
+2. She is swimming in the pool.
+3. They are sitting on the couch.
+4. The bus is stopping now.
+5. We are planning a party.
+6. He is traveling to Rio today.
+7. Maria is dancing with her friends.
+8. My brother is writing a letter.
+9. My mother is making dinner.
+10. My father is driving to work.
+11. The teacher is coming to class.
+12. I am taking pictures now.
+13. They are moving to another apartment.
+14. The cat is lying on the bed.
+15. She is getting dressed.
+16. We are shopping for food.
+17. The show is beginning now.
+18. He is forgetting his backpack again.
+19. The students are using tablets in class.
+20. My cousins are living in São Paulo.
+
+----- QUESTION USING PRESENT CONTINUOS -----
+
+1. Am I running in the park?
+2. Is she swimming in the pool?
+3. Are they sitting on the couch?
+4. Is the bus stopping now?
+5. Are we planning a party?
+6. Is he traveling to Rio today?
+7. Is Maria dancing with her friends?
+8. Is my brother writing a letter?
+9. Is my mother making dinner?
+10. Is my father driving to work?
+11. Is the teacher coming to class?
+12. Am I taking pictures now?
+13. Are they moving to another apartment?
+14. Is the cat lying on the bed?
+15. Is she getting dressed?
+16. Are we shopping for food?
+17. Is the show beginning now?
+18. Is he forgetting his backpack again?
+19. Are the students using tablets in class?
+20. Are my cousins living in São Paulo?
